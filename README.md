@@ -1,4 +1,4 @@
-# GreenLife Studio — CRM Sales Analysis
+# GreenLife Studio — HubSpot CRM Analysis: Pipeline Insights & Revenue Prioritization
 
 Sales pipeline analysis for GreenLife Studio, a London-based online fitness and wellness company.
 
